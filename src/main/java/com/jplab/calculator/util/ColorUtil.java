@@ -1,4 +1,4 @@
-package com.houarizegai.calculator.util;
+package com.jplab.calculator.util;
 
 import java.awt.*;
 import java.util.Optional;

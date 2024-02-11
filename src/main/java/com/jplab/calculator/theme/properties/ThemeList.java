@@ -1,4 +1,4 @@
-package com.houarizegai.calculator.theme.properties;
+package com.jplab.calculator.theme.properties;
 
 import java.util.List;
 import java.util.Map;

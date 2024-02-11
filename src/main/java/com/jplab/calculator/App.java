@@ -1,6 +1,6 @@
-package com.houarizegai.calculator;
+package com.jplab.calculator;
 
-import com.houarizegai.calculator.ui.CalculatorUI;
+import com.jplab.calculator.ui.CalculatorUI;
 
 public class App {
 
